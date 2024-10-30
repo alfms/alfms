@@ -1,4 +1,4 @@
-![logo](![image](https://github.com/user-attachments/assets/eba4beca-e35d-4814-8145-c7696e56d96b)
+![image](https://github.com/user-attachments/assets/eba4beca-e35d-4814-8145-c7696e56d96b)
 
 # Olá, me chamo André Luís Séder👋
 
