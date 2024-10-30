@@ -10,15 +10,15 @@
 
 ## 🌱 O que estou aprendendo atualmente?
 
-Estou me aprofundando em Web Development.
+Estou me aprofundando em Web Development e SGBD.
 
 ---
 
 ## 📫 Como me encontrar?
 
-- [LinkedIn](https://www.linkedin.com/in/seu-username)
-- [Email](mailto:seu-email@gmail.com)
+- [LinkedIn](www.linkedin.com/in/andreseder)
+- [Email](alfmseder@gmail.com)
 
 ---
 
-⭐️ Não se esqueça de dar uma olhada nos meus [repositórios](https://github.com/seu-username) e deixar uma estrela se gostar dos projetos!
+⭐️ Não se esqueça de dar uma olhada nos meus [repositórios](https://github.com/alfms) e deixar uma estrela se gostar dos projetos!
