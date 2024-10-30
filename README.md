@@ -1,4 +1,4 @@
-!img[](https://imgur.com/9xyOPfk)
+!img[logo](https://imgur.com/9xyOPfk)
 
 # Olá, me chamo André Luís Séder👋
 
