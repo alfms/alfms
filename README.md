@@ -18,6 +18,7 @@ Estou me aprofundando em Web Development e SGBD.
 
 - [LinkedIn](www.linkedin.com/in/andreseder)
 - [Email](alfmseder@gmail.com)
+- [Instagram](https://www.instagram.com/andre.l_seder_/)
 
 ---
 
