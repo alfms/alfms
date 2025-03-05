@@ -10,8 +10,10 @@
 
 ## 🌱 O que estou aprendendo atualmente?
 
-Estou me aprofundando em Web Development e SGBD.
-
+Estou me aprofundando: 
+- Full Stack Development;
+- MySQL;
+- Python;
 ---
 
 ## 📫 Como me encontrar?
