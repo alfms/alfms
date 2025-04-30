@@ -18,7 +18,7 @@ Estou me aprofundando:
 
 ## 📫 Como me encontrar?
 
-- [LinkedIn](www.linkedin.com/in/andreseder)
+- [LinkedIn](www.linkedin.com/in/andreseder/)
 - [Email](alfmseder@gmail.com)
 - [Instagram](https://www.instagram.com/andre.l_seder_/)
 
