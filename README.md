@@ -13,6 +13,7 @@
 Estou me aprofundando: 
 - Full Stack Development;
 - MySQL;
+- SQL Server
 - Python;
 - Java
 - IA Engeneering e IA for Business
