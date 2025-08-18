@@ -4,7 +4,7 @@
 
 🎓 Estudante de Ciência da Computação    
 🌍 Falo: Português(nativo) e Inglês(fluente)
-🔍 Interessado em Desenvolvimento de Software, Ciência de Dados e Inteligência Artificial  
+🔍 Interessado em Desenvolvimento Web Fullstack, Inteligência Artificial, Automação, Marketing Digital
 
 ---
 
@@ -14,6 +14,8 @@ Estou me aprofundando:
 - Full Stack Development;
 - MySQL;
 - Python;
+- Java
+- IA Engeneering e IA for Business
 ---
 
 ## 📫 Como me encontrar?
