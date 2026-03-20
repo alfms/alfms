@@ -2,24 +2,13 @@
 
 # Olá, me chamo André Luís Séder👋
 
-🎓 Estudante de Ciência da Computação    
-🌍 Falo: Português(nativo) e Inglês(fluente)
-🔍 Interessado em Desenvolvimento Web Fullstack, Inteligência Artificial, Automação, Marketing Digital
+🎓 Software Engineer Undergraduate & Entrepreneur
+🌍 Portuguese(native) & English(fluent)
+🔍 Interested in Fullstack Web Dev, AI, Automation, Digital Marketing, Cyber
 
 ---
 
-## 🌱 O que estou aprendendo atualmente?
-
-Estou me aprofundando: 
-- Full Stack Development;
-- MySQL;
-- SQL Server
-- Python;
-- Java
-- IA Engeneering e IA for Business
----
-
-## 📫 Como me encontrar?
+## 📫 How to find me?
 
 - [LinkedIn](https://www.linkedin.com/in/andreseder/)
 - [Email](alfmseder@gmail.com)
@@ -27,4 +16,4 @@ Estou me aprofundando:
 
 ---
 
-⭐️ Não se esqueça de dar uma olhada nos meus [repositórios](https://github.com/alfms) e deixar uma estrela se gostar dos projetos!
+⭐️ Don't forget to check ou my [repos](https://github.com/alfms) and leave a star if you like!
