@@ -3,7 +3,7 @@
 # Hey, my name is André Luís Séder👋
 
 🎓 Software Engineer Undergraduate & Entrepreneur <br>
-🌍 Portuguese(native) & English(fluent) <br
+🌍 Portuguese(native) & English(fluent) <br>
 🔍 Interested in Fullstack Web Dev, AI, Automation, Digital Marketing, Cyber
 
 ---
