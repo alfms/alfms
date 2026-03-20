@@ -1,8 +1,8 @@
 ![image](https://github.com/user-attachments/assets/eba4beca-e35d-4814-8145-c7696e56d96b)
 
-# Olá, me chamo André Luís Séder👋
+# Hey, my name is André Luís Séder👋
 
-🎓 Software Engineer Undergraduate & Entrepreneur
+🎓 Software Engineer Undergraduate & Entrepreneur <br>
 🌍 Portuguese(native) & English(fluent)
 🔍 Interested in Fullstack Web Dev, AI, Automation, Digital Marketing, Cyber
 
